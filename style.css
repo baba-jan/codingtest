@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    width: 500px;
+    height: 500px;
+  }
+  
+  .images {
+    height: 530px;
+    width: 500px;
+    overflow: hidden;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.485);
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .buttons{
+    display: flex;
+    justify-content: space-between;
+  }
+  #btn-1,#btn-2{
+    background-color: purple;
+    color:white;
+    width: 240px;
+    padding: 10px;
+    border: none;
+  }
+  
+
+
+
+
